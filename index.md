@@ -1,6 +1,6 @@
 # 欢迎来到我的主页
 - 不知道要写啥
--可以在这里找到我
+- 可以在这里找到我
 
 >[bilibili](https://space.bilibili.com/366439172?spm_id_from=333.1007.0.0)  
 >[我写的东西](https://docs.sakuragl.ml/#/)  
