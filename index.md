@@ -2,9 +2,11 @@
 - 不知道要写啥
 -可以在这里找到我
 
->[bilibili](https://space.bilibili.com/366439172?spm_id_from=333.1007.0.0)
->[我写的东西](https://docs.sakuragl.ml/#/)
->[我的下载站]（https://download.sakuragl.ml/）
+>[bilibili](https://space.bilibili.com/366439172?spm_id_from=333.1007.0.0)  
+>[我写的东西](https://docs.sakuragl.ml/#/)  
+>[我的下载站](https://download.sakuragl.ml/)  
+
+## 你的个人访问信息
 
 
 <div>
@@ -40,8 +42,8 @@
         seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
         snum = Math.round(seconds);
         if(String(snum).length ==1 ){snum = "0" + snum;}
-        document.getElementById("timeDate").innerHTML = "⏱️本站已稳定运行"+dnum+"天";
+        document.getElementById("timeDate").innerHTML = "⏱️主站已稳定运行"+dnum+"天";
         document.getElementById("times").innerHTML = hnum + "小时" + mnum + "分" + snum + "秒";
     }
     setInterval("createtime()",250); 
-</script> 
+
